@@ -1,5 +1,9 @@
 # See https://github.com/github/gitignore/blob/main/Python.gitignore
 
+### Add your own stuff here ###
+
+slurm-logs/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
